@@ -1,5 +1,9 @@
 #!/bin/sh
+<<<<<<< HEAD
 #1
+=======
+#2
+>>>>>>> 74aba70... Added Collider Terminate Function
 
 USER=collider
 
