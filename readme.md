@@ -1,2 +1,4 @@
 Hello ! This is my new practice in git!!!
-fatal: LF would be replaced by CRLF
+fatal: LF would be replaced by CRLF new changes
+new changes
+new changes
